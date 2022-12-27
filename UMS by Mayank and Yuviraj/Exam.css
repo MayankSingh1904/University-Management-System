@@ -1,0 +1,67 @@
+body {
+  background-image: url("pik.jpg");
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  padding-right: 3cm;
+  padding-left: 3cm;
+}
+table {
+  border: 3px solid rgb(255, 3, 234);
+  border-collapse: collapse;
+  background-color: rgb(49, 218, 209);
+  width: 100%;
+  padding-top: 2cm;
+  border-spacing: 10px;
+}
+h1 {
+  text-align: center;
+  padding-top: 1cm;
+  font-size: x-large;
+  padding-bottom: 1cm;
+  font-weight: bolder;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+th {
+  text-size-adjust: 1cm;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+td {
+  text-size-adjust: 0.5cm;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+tr:hover {
+  background-color: #74f10d;
+}
+button {
+  color: whitesmoke;
+  padding: 5px;
+  text-align: center;
+  display: inline;
+  font-size: 20px;
+  font-weight: bold;
+  border-radius: 8px;
+  width: 200px;
+  height: 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: red;
+  border: solid 3px rgb(9, 245, 213);
+  margin-top: 1cm;
+  
+}
+
+button:hover {
+  background-color: rgb(102, 255, 0);
+}
+img {
+  background: transparent;
+  width: 6cm;
+  padding-right: 0.8cm;
+  margin-left: 30cm;
+}
